@@ -1,0 +1,6 @@
+54 warn complete Waiting for 1 child process to exit. CTRL-C to exit immediately.
+55 error Error: Command failed: git tag example-vue@5.0.6 -m example-vue@5.0.6
+55 error fatal: tag 'example-vue@5.0.6' already exists
+55 error
+55 error     at makeError (D:\code\@xyx\@create_lib\storybook-readme\node_modules\_execa@1.0.0@execa\index.js:174:9)
+55 error     at D:\code\@xyx\@create_lib\storybook-readme\node_modules\_execa@1.0.0@execa\index.js:278:16
